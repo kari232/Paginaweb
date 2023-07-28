@@ -1,0 +1,59 @@
+/* 
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+
+body{
+    background-color: rgb(249, 249, 241);
+    font-family: 'Dosis', sans-serif;
+    margin-left: 100px;
+    margin-right: 250px;
+
+}
+
+.main-title{
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+
+}
+
+main {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main-rigth-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+    justify-content: center;
+    align-items:center;
+    width: 320px;
+    height: 200px;
+
+}
+ 
+
+.historia{
+    color:rgb(1, 1, 1);
+}
+
+
+
+.menu{
+ 
+    display:flex;
+    flex-direction: column-reverse;
+    align-items:center
+}
+
+a{
+    color: brown
+}
